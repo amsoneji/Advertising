@@ -1,0 +1,6 @@
+#Gitignore rules
+facerec/*markdown
+facerec/or*
+facerec/m
+facerec/py/apps/scripts/*png
+facerec/py/apps/scripts/*pgm
