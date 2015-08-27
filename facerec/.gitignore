@@ -1,0 +1,7 @@
+#Gitignore
+.DS_Store
+*.pyc
+*.pkl
+serverlog.log
+*markdown
+m/
